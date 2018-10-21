@@ -1,0 +1,11 @@
+body {
+	padding-top: 70px;
+	background: #ECEDF2;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.jumbotron {
+	background-color: #CCBCBC;
+	color: #211A14;
+	font-weight: normal;}
